@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 import 'package:pokedex/models/characteristics.dart';
 import 'package:pokedex/style.dart';
