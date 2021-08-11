@@ -4,6 +4,7 @@ Color blueTheme = Color(0xFF1E90FF);
 Color redTheme = Color(0xFFB22222);
 Color blueLettersTheme = Color(0xFF00BFFF);
 
+// Linha colorida
 LinearGradient appBarGradient = LinearGradient(
                                   colors: <Color>[
                                     Color(0xffffd100),
