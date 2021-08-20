@@ -27,7 +27,7 @@ const List song_type_2 = [
 
 const List songs = [
   {
-    "img": "assets/images/twenty.jpg",
+    "img": "assets/images/twenty/twenty.jpg",
     "title": "Twenty One Pilots",
     "description": "Twenty One Pilots it's the Best Duo",
     "song_count": "80 songs",
@@ -35,17 +35,17 @@ const List songs = [
     "color": Color(0xFF87CEFA),
     "song_url": "songs/trucetop.mp3",
     "songs": [
-      {"title": "Truce", "duration": "2:25"},
-      {"title": "Holding on to you", "duration": "4:27"},
-      {"title": "Levitate", "duration": "2:33"},
-      {"title": "Nico and the Niners", "duration": "4:22"},
-      {"title": "Chlorine", "duration": "5:23"},
-      {"title": "Ride", "duration": "3:45"},
+      {"image": "assets/images/twenty/trench.jpg", "title": "Jumpsuit", "duration": "2:25"},
+      {"image": "assets/images/twenty/trench.jpg", "title": "My Blood", "duration": "4:27"},
+      {"image": "assets/images/twenty/trench.jpg", "title": "Levitate", "duration": "2:33"},
+      {"image": "assets/images/twenty/trench.jpg", "title": "Nico and the Niners", "duration": "4:22"},
+      {"image": "assets/images/twenty/trench.jpg", "title": "Chlorine", "duration": "5:23"},
+      {"image": "assets/images/twenty/trench.jpg", "title": "Cut my Lip", "duration": "3:45"},
     ]
   },
 
   {
-    "img": "assets/images/kodaline.jpg",
+    "img": "assets/images/kodaline/kodaline.jpg",
     "title": "Kodaline",
     "description": "Kodaline Best band Sad",
     "song_count": "10 songs",
@@ -63,7 +63,7 @@ const List songs = [
   },
 
   {
-    "img": "assets/images/imagine.jpg",
+    "img": "assets/images/imagine/imagine.jpg",
     "title": "Imagine Dragons",
     "description": "Imagine Dragons Very Good",
     "song_count": "20 songs",
@@ -81,7 +81,7 @@ const List songs = [
   },
 
   {
-    "img": "assets/images/shawnmendes.jpg",
+    "img": "assets/images/shawnmendes/shawnmendes.jpg",
     "title": "Shawn Mendes",
     "description": "Shawn Mendes Good Singer",
     "song_count": "20 songs",
@@ -99,7 +99,7 @@ const List songs = [
   },
 
   {
-    "img": "assets/images/johnmayer.jpg",
+    "img": "assets/images/johnmayer/johnmayer.jpg",
     "title": "John Mayer",
     "description": "John Mayer Good Guitar Player",
     "song_count": "20 songs",
@@ -117,7 +117,7 @@ const List songs = [
   },
 
   {
-    "img": "assets/images/onedirection.jpg",
+    "img": "assets/images/onedirection/onedirection.jpg",
     "title": "One Direction",
     "description": "One Direction Good Pop Band",
     "song_count": "40 songs",
@@ -135,7 +135,7 @@ const List songs = [
   },
 
   {
-    "img": "assets/images/5seconds.jpg",
+    "img": "assets/images/seconds/5seconds.jpg",
     "title": "5 Seconds of Summer",
     "description": "5 Seconds of Summer Good Pop-Rock",
     "song_count": "10 songs",
